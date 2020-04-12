@@ -1,0 +1,4 @@
+/website/.cache
+/website/dist
+/website/node_modules
+/mediaplayer/node_modules
