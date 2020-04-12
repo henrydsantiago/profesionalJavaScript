@@ -1,0 +1,21 @@
+{
+  "name": "platzi-media-player",
+  "version": "1.0.0",
+  "description": "Curso Profesional de JavaScript",
+  "main": "clase01.js",
+  "scripts": {
+    "start": "parcel index.html ejercicios/**/*.html"
+  },
+  "author": "Henry D'Santiago",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "typescript": "^3.8.3"
+  },
+  "browserlist": [
+    "last 1 Chrome version"
+  ],
+  "dependencies": {
+    "@henrydsantiago/mediaplayer": "^1.0.0"
+  }
+}
